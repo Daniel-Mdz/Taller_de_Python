@@ -1,0 +1,14 @@
+Extensiones:
+- Python
+- Prettier
+- Python Indent
+- Gitlens
+- Tabnine (IA)
+- VSCode-icons
+
+Vincular GitHub con VSCode
+git config --global user.name "TuNombreDeUsuario"
+git config --global user.email "tu@email.com"
+git config user.name
+git config user.email
+git config --global --list

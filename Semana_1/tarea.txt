@@ -1,0 +1,6 @@
+Tareas
+- Crear mi cuenta en GitHub y vincular con VSCode
+- Investigar sobre la clase de math
+- Investigar sobre: ¿Que es una rama en Git?
+- Hacer los ejercicios semanales
+- Hacer ppt sobre el proyecto
